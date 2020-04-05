@@ -7,4 +7,4 @@ For project instalation videos and docuemtnation go [here](http://fireadmin.mobi
 
 | Project                 | Status | 
 |-------------------------|--------|
-| [React App Builder demo](https://make.reactappbuilder.com/)  |[![Netlify Status](https://api.netlify.com/api/v1/badges/26ca5271-b8fa-4ce3-bef0-2fc74df669e8/deploy-status)](https://app.netlify.com/sites/trusting-neumann-c10f0d/deploys)    |
+| [Foldr.Space](https://foldr.space/)  |[![Netlify Status](https://api.netlify.com/api/v1/badges/26ca5271-b8fa-4ce3-bef0-2fc74df669e8/deploy-status)](https://app.netlify.com/sites/trusting-neumann-c10f0d/deploys)    |
